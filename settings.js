@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94772067442']
-global.premium = ['94772067442']
+global.owner = ['94762352974']
+global.premium = ['94762352974']
 global.ownernomer = '94772067442'
 global.ownername = '🐦Anuchamath Sathsara'
-global.botname = 'Gojo-Satoru'
-global.footer = '©Anu.'
+global.botname = 'Black-Panther '
+global.footer = '©Anuchamath sathsra.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
