@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94762352974']
-global.premium = ['94762352974']
-global.ownernomer = '94762352974'
+global.owner = ['no number ']
+global.premium = ['no number ']
+global.ownernomer = 'no number '
 global.ownername = 'Anuchamath Sathsara😇👌'
 global.botname = 'Black-Panther '
 global.footer = '©Anuchamath sathsra.'
@@ -36,8 +36,8 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
+    admin: 'This Feature Is Only For Admin!😇',
+    botAdmin: 'Bot Must Be Admin First!👌',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
