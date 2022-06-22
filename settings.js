@@ -25,9 +25,9 @@ global.ownernomer = 'no number '
 global.ownername = 'Anuchamath Sathsara😇👌'
 global.botname = 'Black-Panther '
 global.footer = '©Anuchamath sathsra.'
-global.ig = 'https://github.com/nexusNw'
+global.ig = 'https://github.com/Anuchamath'
 global.region = 'Australia '
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://github.com/Anuchamath /Gojo-Satoru'
 global.myweb = 'https://m.youtube.com/channel/UCiwDAiXTXIoTPBG4T986-Ug'
 global.packname = 'Anu👌😇'
 global.author = 'Anu👌😇'
@@ -35,7 +35,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'Done 😇👌',
     admin: 'This Feature Is Only For Admin!😇',
     botAdmin: 'Bot Must Be Admin First!👌',
     owner: 'This Feature Is Only For Owner!',
