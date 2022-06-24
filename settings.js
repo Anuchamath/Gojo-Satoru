@@ -19,31 +19,31 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['no number ']
-global.premium = ['no number ']
-global.ownernomer = 'no number '
+global.owner = ['94770267442 ']
+global.premium = ['94770267442 ']
+global.ownernomer = '94770267442 '
 global.ownername = 'Anusha😇👌'
-global.botname = 'Anusha '
-global.footer = '©Anusha.'
+global.botname = '☘Anusha☘ '
+global.footer = '©Anusha☘.'
 global.ig = 'https://github.com/Anuchamath'
 global.region = 'Australia '
 global.sc = 'https://github.com/Anuchamath /Gojo-Satoru'
 global.myweb = 'https://m.youtube.com/channel/UCiwDAiXTXIoTPBG4T986-Ug'
-global.packname = 'Anusha👌😇'
+global.packname = '☘Anusha☘'
 global.author = 'Anusha👌😇'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done 😇👌',
-    admin: 'This Feature Is Only For Admin!😇',
-    botAdmin: 'Bot Must Be Admin First!👌',
+    success: 'Done ☘',
+    admin: 'This Feature Is Only For Admin!☘',
+    botAdmin: 'Bot Must Be Admin First!☘',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    error: 'Error! Maybe Api Key Is Expired🤔☘!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
